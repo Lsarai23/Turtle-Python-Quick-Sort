@@ -4,6 +4,8 @@ Hey guys!🖐️
 This project uses Turtle Python to create a visual and fun simulation of Quick Sort! 🐢
 
 I've developed it with my colleagues when I was on the 1st semester, so maybe it doesn't gonna be so so good... 🤦‍♂️
+
+**<h3>Important: This code requires a input from terminal after Mario appears for the first time.**
  
 **I hope you enjoy it!🤟**
 
